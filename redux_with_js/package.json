@@ -1,0 +1,19 @@
+{
+  "name": "redux_with_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main_bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.1.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
